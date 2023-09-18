@@ -1,3 +1,5 @@
-const add = (a, b) => a + b;
+const multiple = (a, b) => a * b;
+const divide = (a, b) => a / b;
 
-console.log(add(2,3))
+console.log(divide(6,2))
+console.log(multiple(2,3))
